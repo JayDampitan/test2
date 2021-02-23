@@ -87,15 +87,13 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-    padding-left: 100px;
-    padding-right: 100px;
   }
   
   .logo-wrapper img {
-    width: 50%;
+    width: 40%;
     margin-bottom: 20px;
     position: relative;
-    left: 70%;
+    left: 50%;
   }
   
   .img-text-wrapper .Subtitle {
@@ -103,7 +101,7 @@
     font-weight: 700;
     color: transparent;
     position: relative;
-    left: 40%;
+    left: 20%;
   }
   
   .img-text-wrapper:hover .Subtitle {
