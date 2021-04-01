@@ -20,6 +20,7 @@
   }
   .left-side {
       display: flex;
+      font-family: "Poppins",sans-serif;
   }
     /* Nav styles */
   .nav-wrapper > .left-side > div {
